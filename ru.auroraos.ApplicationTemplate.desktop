@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.kotdath.KotGym
+Exec=/usr/bin/ru.kotdath.KotGym
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=
+OrganizationName=ru.kotdath
+ApplicationName=KotGym
+ExecDBus=/usr/bin/ru.kotdath.KotGym
